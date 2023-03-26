@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Champulin
+- 👋 Hi, I’m @Champulin i'm a Developer with experiences in the developement of FullStack aplications
 - 👀 I’m interested in learning more about languages, exercises to practice
-- 🌱 I’m currently learning PL/SQL ,JAVA, HTML, CSS, Python, JS
+- 🌱 I’m currently working with Django, Vue and NestJS. I'm also learning Spark
 
 
 <!---
