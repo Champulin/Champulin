@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Champulin i'm a Developer with experiences in the developement of FullStack aplications
 - 👀 I’m interested in learning more about web developpement.
-- 🌱 I’m currently learning Vue and looking for a job related with Python or VueJs.
+- 🌱 I’m currently learning Vue and looking for a job related with Python or Javascript (React/Vue).
 
 
 <!---
